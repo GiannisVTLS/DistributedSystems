@@ -1,0 +1,17 @@
+Χρησιμοποιήσαμε το dataset2, στο παραδοτέο θα βρείτε τον φακελο dataset2 ο οποιος περιέχει μεσα μόνο ενα τραγούδι 
+ωστε να γίνει εμφανές το path που εχουμε ορίσει για να διαβάσουμε τα τραγούδια.
+
+Η εφαρμογή εχει 3 main, την PublisherImpl, την BrokerImpl και την ConsumerImpl
+Χρησιμοποιώντας Intellij για να το τρέξουμε ακολουθουμε τα εξής βηματα:
+
+1)Με Program Arguments τον αριθμό 1, run την BrokerImpl
+
+2)Με Program Arguments τον αριθμό 1, run την PublisherImpl
+3)Με Program Arguments τον αριθμό 2, run την PublisherImpl
+
+4)Με Program Arguments τον αριθμό 2, run την BrokerImpl
+5)Με Program Arguments τον αριθμό 3, run την BrokerImpl
+
+Αν χρειάζεται κάποια διευκρινήση ένα mail για επικοινωνία ειναι το giannis9700@gmail.com
+
+Ευχαριστούμε.
